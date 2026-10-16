@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tesfahiwet Yemane 👋
 
-<!--
-**tesfahiwet-yemane/tesfahiwet-yemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Geophysicist | Seismologist | Deep Learning for Seismology**
 
-Here are some ideas to get you started:
+I work at the intersection of geophysics, seismology and machine learning.
+[Currently: PhD student / Department of Earth Sciences, University of Oxford]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research interests
+- Geophysics
+- Seismology
+- Deep learning for seismology
+- [e.g. seismic tomography, geothermal systems, attenuation and ambient noise tomography]
+
+### 🛠️ Tools & technologies
+**Languages:** Python, [MATLAB, Fortran, C, C++]
+**ML/DL:** PyTorch, TensorFlow, scikit-learn
+**Seismology:** ObsPy, SeisBench, [PhaseNet, EQTransformer, SAC, GMT]
+**Data & compute:** NumPy, Pandas, Xarray, HPC / SLURM
+
+### 📫 Connect
+[Website]([link](https://tesfahiwetyemane.com/))
