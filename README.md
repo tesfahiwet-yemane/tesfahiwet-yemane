@@ -18,4 +18,4 @@ I work at the intersection of geophysics, seismology and machine learning.
 **Data & compute:** NumPy, Pandas, Xarray, HPC / SLURM
 
 ### 📫 Connect
-[Website]([link](https://tesfahiwetyemane.com/))
+[Website](https://tesfahiwetyemane.com/)
