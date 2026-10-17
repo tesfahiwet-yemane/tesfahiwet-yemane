@@ -1,8 +1,8 @@
 # Hi, I'm Tesfahiwet Yemane 👋
 
-**Geophysicist | Seismologist | Deep Learning for Seismology**
+**Geophysics | Seismology | Deep Learning for Seismology**
 
-I work at the intersection of geophysics, seismology and machine learning.
+I work at the intersection of geophysics, seismology and machine/deep learning.
 [Currently: PhD student / Department of Earth Sciences, University of Oxford]
 
 ### 🔬 Research interests
@@ -12,7 +12,7 @@ I work at the intersection of geophysics, seismology and machine learning.
 - [e.g. seismic tomography, attenuation and ambient noise tomography, geothermal systems, energy transition]
 
 ### 🛠️ Tools & technologies
-**Languages:** Python, [MATLAB, Fortran, C, C++]
+**Languages:** Python, [MATLAB, Fortran, C, C++, HTML]
 **ML/DL:** PyTorch, TensorFlow, scikit-learn
 **Seismology:** ObsPy, SeisBench, [PhaseNet, EQTransformer, SAC, GMT]
 **Data & compute:** NumPy, Pandas, Xarray, HPC / SLURM
