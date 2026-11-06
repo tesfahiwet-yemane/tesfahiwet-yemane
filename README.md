@@ -11,6 +11,7 @@ I work at the intersection of geophysics, seismology and machine/deep learning.
 - Deep learning for seismology
 - [e.g. seismic tomography, attenuation and ambient noise tomography, geothermal systems, energy transition]
 - Foundation models for Seismology
+- Self-supervised learning
 
 ### 🛠️ Tools & technologies
 **Languages:** Python, [MATLAB, Fortran, C, C++, HTML]
