@@ -16,7 +16,7 @@ I work at the intersection of geophysics, seismology and machine/deep learning.
 
 ### 🛠️ Tools & technologies
 **Languages:** Python, [MATLAB, Fortran, C, C++, HTML]
-**ML/DL:** PyTorch, TensorFlow, scikit-learn
+**ML/DL:** PyTorch, TensorFlow, scikit-learn and others
 **Seismology:** ObsPy, SeisBench, [PhaseNet, EQTransformer, SAC, GMT]
 **Data & compute:** NumPy, Pandas, Xarray, HPC / SLURM
 
