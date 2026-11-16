@@ -14,6 +14,7 @@ I work at the intersection of geophysics, seismology and machine/deep learning.
 - Self-supervised learning
 - Representation learning
 - Transformers
+- Agents
 
 ### 🛠️ Tools & technologies
 **Languages:** Python, [MATLAB, Fortran, C, C++, HTML]
