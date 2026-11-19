@@ -16,6 +16,7 @@ I work at the intersection of geophysics, seismology and machine/deep learning.
 - Transformers
 - Agents
 - ViT
+- AT
 
 ### 🛠️ Tools & technologies
 **Languages:** Python, [MATLAB, Fortran, C, C++, HTML]
